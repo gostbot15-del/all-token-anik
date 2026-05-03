@@ -1,1 +1,1 @@
-# all-token-anik
+# JWTGEN
